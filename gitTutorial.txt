@@ -1,0 +1,19 @@
+1.  git --version
+2.  git status
+3   git log
+4.  git init
+5.1 git add "file name" --->add spicific file to staging area
+5.2 git add . --->adds file to the staging area
+5.3 git add -Av --->
+6.  git commit -m "any message"  -->commit
+7.  git config --global user.email "you@example.com"
+8.  git config --global user.name "Your Name"
+9.  git config --global user.name -- Display name
+10. git config --list
+11. git push -u origin master
+12. git remote remove origin
+13. git remote add origin "url"
+14. git diff "file name" --->show what changed in file
+15. git reset "file name" --->remove file from stagging area
+16. git checkout "file name" --->reset the file to previous change
+17. git checkout .  --->reset every files to previous change
